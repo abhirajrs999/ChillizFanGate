@@ -1,4 +1,5 @@
 # ChilizFanGate ⚽
+![ChilizFanGate](https://github.com/user-attachments/assets/53e7f486-dc37-4f57-a101-44682b9d9818)
 
 A decentralized fan engagement platform built on Chiliz blockchain that enables token-gated content access, creator monetization, and community rewards.
 
